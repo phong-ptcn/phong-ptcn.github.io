@@ -1,0 +1,97 @@
+[
+
+    {
+        "name": "May Coffee",
+        "image": "assets/img/may-coffee.png",
+        "menu" :"assets/img/menu-details/may-coffee.jpg",
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+    },
+    {
+        "name": "Trà sữa Chado",
+        "image": "assets/img/ts-chado.png",
+        "menu" :"assets/img/menu-details/chado.jpg",
+
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+
+    },
+    {
+        "name": "Trà sữa Dũ Péo",
+        "image": "assets/img/ts-dupeo.png",
+        "menu" :"assets/img/menu-details/du_peo2.jpg",
+        "phone": "Classic pepperoni pizza with a thin crust.",
+        "facebook" :"#"
+
+    },
+    {
+        "name": "Phúc Tea",
+        "image": "assets/img/ts-phuctea.png",
+        "menu" :"assets/img/menu-details/phuctea.jpg",
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+
+    },
+    {
+        "name": "Trà sữa Ohana",
+        "image": "assets/img/ts-ohana.png",
+        "menu" :"assets/img/menu-details/ohana.jpg",
+
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+
+    },
+
+    {
+        "name": "Trà sữa Huy",
+        "image": "assets/img/ts-huy.png",
+        "menu" :"assets/img/menu-details/tshuy-2.jpg",
+        "phone": "Delicious beef burger with cheese and vegetables.",
+        "facebook" :"#"
+    },
+
+
+    {
+        "name": "Tiệm cà phê Màu",
+        "image": "assets/img/cafe-mau.png",
+        "menu" :"assets/img/menu-details/cafe-mau.jpg",
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+
+    },
+
+    {
+        "name": "Lưu luyến",
+        "image": "assets/img/cafe-luuluyen.png",
+        "menu" :"",
+
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook" :"#"
+
+    },
+
+    {
+        "name": "Likes",
+        "image": "assets/img/likes.png",
+        "phone": "tel:0345653709",
+        "menu" :"assets/img/menu-details/cafe-likes.jpg",
+        "facebook" :"https://www.facebook.com/likesdabaotrasua"
+
+    },
+    {
+        "name": "Bánh tráng Hẻm 68",
+        "image": "assets/img/hem68.png",
+        "phone": "tel:0345653709",
+        "menu" :"assets/img/menu-details/hem68.jpg",
+        "facebook" :"#"
+
+    },
+    {
+        "name": "Dưỡng nhan Chung Híu",
+        "image": "assets/img/duong_nhan_trung_hieu.png",
+        "phone": "tel:0345653709",
+        "menu" :"assets/img/menu-details/duong_nhan_trung_hieu.png",
+        "facebook" :"#"
+
+    }
+]
