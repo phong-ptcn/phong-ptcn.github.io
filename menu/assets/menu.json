@@ -1,97 +1,103 @@
 [
-
     {
         "name": "May Coffee",
         "image": "assets/img/may-coffee.png",
-        "menu" :"assets/img/menu-details/may-coffee.jpg",
+        "menu": "assets/img/menu-details/may-coffee.jpg",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
+        "facebook": "#",
+        "category": "drink"
     },
     {
         "name": "Trà sữa Chado",
         "image": "assets/img/ts-chado.png",
-        "menu" :"assets/img/menu-details/chado.jpg",
-
+        "menu": "assets/img/menu-details/chado.jpg",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
-
+        "facebook": "#",
+        "category": "drink"
     },
     {
         "name": "Trà sữa Dũ Péo",
         "image": "assets/img/ts-dupeo.png",
-        "menu" :"assets/img/menu-details/du_peo2.jpg",
+        "menu": "assets/img/menu-details/du_peo2.jpg",
         "phone": "Classic pepperoni pizza with a thin crust.",
-        "facebook" :"#"
-
+        "facebook": "#",
+        "category": "drink"
     },
     {
         "name": "Phúc Tea",
         "image": "assets/img/ts-phuctea.png",
-        "menu" :"assets/img/menu-details/phuctea.jpg",
+        "menu": "assets/img/menu-details/phuctea-2.jpg",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
+        "facebook": "#",
+        "category": "drink"
 
     },
     {
         "name": "Trà sữa Ohana",
         "image": "assets/img/ts-ohana.png",
-        "menu" :"assets/img/menu-details/ohana.jpg",
-
+        "menu": "assets/img/menu-details/ohana.jpg",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
+        "facebook": "#",
+        "category": "drink"
 
     },
-
     {
         "name": "Trà sữa Huy",
         "image": "assets/img/ts-huy.png",
-        "menu" :"assets/img/menu-details/tshuy-2.jpg",
+        "menu": "assets/img/menu-details/tshuy-2.jpg",
         "phone": "Delicious beef burger with cheese and vegetables.",
-        "facebook" :"#"
+        "facebook": "#",
+        "category": "drink"
+
     },
-
-
     {
         "name": "Tiệm cà phê Màu",
         "image": "assets/img/cafe-mau.png",
-        "menu" :"assets/img/menu-details/cafe-mau.jpg",
+        "menu": "assets/img/menu-details/cafe-mau.jpg",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
-
+        "facebook": "#",
+        "category": "drink"
     },
-
     {
         "name": "Lưu luyến",
         "image": "assets/img/cafe-luuluyen.png",
-        "menu" :"",
-
+        "menu": "",
         "phone": "Fresh garden salad with mixed greens and dressing.",
-        "facebook" :"#"
-
+        "facebook": "#",
+        "category": "drink"
+    
     },
-
     {
         "name": "Likes",
         "image": "assets/img/likes.png",
         "phone": "tel:0345653709",
-        "menu" :"assets/img/menu-details/cafe-likes.jpg",
-        "facebook" :"https://www.facebook.com/likesdabaotrasua"
+        "menu": "assets/img/menu-details/cafe-likes.jpg",
+        "facebook": "https://www.facebook.com/likesdabaotrasua"
+    },
 
+    {
+        "name": "Dưỡng nhan Chung Híu",
+        "image": "assets/img/duong_nhan_trung_hieu.png",
+        "phone": "tel:0345653709",
+        "menu": "assets/img/menu-details/duong_nhan_trung_hieu.png",
+        "facebook": "#"
+    },
+
+    
+    {
+        "name": "Bếp Cô Phượng",
+        "image": "assets/img/bep-co-phuong.png",
+        "phone": "tel:0345653709",
+        "menu": "assets/img/menu-details/bep-co-phuong.jpg",
+        "facebook": "#",
+        "category": "food"
     },
     {
         "name": "Bánh tráng Hẻm 68",
         "image": "assets/img/hem68.png",
         "phone": "tel:0345653709",
-        "menu" :"assets/img/menu-details/hem68.jpg",
-        "facebook" :"#"
-
-    },
-    {
-        "name": "Dưỡng nhan Chung Híu",
-        "image": "assets/img/duong_nhan_trung_hieu.png",
-        "phone": "tel:0345653709",
-        "menu" :"assets/img/menu-details/duong_nhan_trung_hieu.png",
-        "facebook" :"#"
-
+        "menu": "assets/img/menu-details/hem68.jpg",
+        "facebook": "#",
+        "category": "food"
     }
 ]

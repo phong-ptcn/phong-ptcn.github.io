@@ -8,7 +8,10 @@ window.addEventListener("load", function () {
 fetch("./assets/menu.json")
   .then((response) => response.json())
   .then((data) => {
+    
     const foodMenu = document.getElementById("foodMenu");
+    const drinkMenu = document.getElementById('drinkMenu');
+
     const modal = document.getElementById("menuModal");
     const modalImage = document.getElementById("modalImage");
     const modalName = document.getElementById("modalName");
@@ -46,7 +49,11 @@ fetch("./assets/menu.json")
         modal.style.display = "block";
       });
 
-      foodMenu.appendChild(foodItem);
+      if (item.category === 'food') {
+        foodMenu.appendChild(foodItem);
+      } else if (item.category === 'drink') {
+        drinkMenu.appendChild(foodItem);
+      }
     });
 
     // Close modal when close button is clicked
