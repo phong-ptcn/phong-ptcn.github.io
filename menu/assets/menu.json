@@ -72,7 +72,9 @@
         "image": "assets/img/likes.png",
         "phone": "tel:0345653709",
         "menu": "assets/img/menu-details/cafe-likes.jpg",
-        "facebook": "https://www.facebook.com/likesdabaotrasua"
+        "facebook": "https://www.facebook.com/likesdabaotrasua",
+        "category": "drink"
+
     },
 
     {
@@ -80,7 +82,9 @@
         "image": "assets/img/duong_nhan_trung_hieu.png",
         "phone": "tel:0345653709",
         "menu": "assets/img/menu-details/duong_nhan_trung_hieu.png",
-        "facebook": "#"
+        "facebook": "#",
+        "category": "drink"
+
     },
 
     

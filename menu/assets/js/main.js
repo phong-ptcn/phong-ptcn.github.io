@@ -8,9 +8,8 @@ window.addEventListener("load", function () {
 fetch("./assets/menu.json")
   .then((response) => response.json())
   .then((data) => {
-    
     const foodMenu = document.getElementById("foodMenu");
-    const drinkMenu = document.getElementById('drinkMenu');
+    const drinkMenu = document.getElementById("drinkMenu");
 
     const modal = document.getElementById("menuModal");
     const modalImage = document.getElementById("modalImage");
@@ -49,9 +48,9 @@ fetch("./assets/menu.json")
         modal.style.display = "block";
       });
 
-      if (item.category === 'food') {
+      if (item.category === "food") {
         foodMenu.appendChild(foodItem);
-      } else if (item.category === 'drink') {
+      } else if (item.category === "drink") {
         drinkMenu.appendChild(foodItem);
       }
     });
@@ -61,6 +60,27 @@ fetch("./assets/menu.json")
     closeButton.addEventListener("click", () => {
       modal.style.display = "none";
     });
+
+    // const foodItems = document.querySelectorAll(".foodItem");
+
+    // foodItems.forEach((item) => {
+    //   item.addEventListener("mouseenter", () => {
+    //     // Apply grayscale to all items except the one being hovered
+    //     foodItems.forEach((otherItem) => {
+    //       if (otherItem !== item) {
+    //         otherItem.querySelector("img").style.filter =
+    //           "grayscale(100%) brightness(50%)";
+    //       }
+    //     });
+    //   });
+
+    //   item.addEventListener("mouseleave", () => {
+    //     // Remove grayscale filter when mouse leaves the item
+    //     foodItems.forEach((otherItem) => {
+    //       otherItem.querySelector("img").style.filter = "none";
+    //     });
+    //   });
+    // });
 
     // Close modal when clicking outside the modal content
     window.addEventListener("click", (event) => {
