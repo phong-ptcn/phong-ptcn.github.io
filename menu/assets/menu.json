@@ -15,6 +15,15 @@
         "facebook": "#",
         "category": "drink"
     },
+
+    {
+        "name": "Trà sữa ChaPong",
+        "image": "assets/img/chapong.png",
+        "menu": "assets/img/menu-details/chapong.jpg",
+        "phone": "Fresh garden salad with mixed greens and dressing.",
+        "facebook": "#",
+        "category": "drink"
+    },
     {
         "name": "Trà sữa Dũ Péo",
         "image": "assets/img/ts-dupeo.png",
@@ -101,6 +110,14 @@
         "image": "assets/img/hem68.png",
         "phone": "tel:0345653709",
         "menu": "assets/img/menu-details/hem68.jpg",
+        "facebook": "#",
+        "category": "food"
+    },     
+    {
+        "name": "Kimoochi",
+        "image": "assets/img/kimoochi.png",
+        "phone": "tel:012345678",
+        "menu": "assets/img/menu-details/kimoochi.png",
         "facebook": "#",
         "category": "food"
     }
